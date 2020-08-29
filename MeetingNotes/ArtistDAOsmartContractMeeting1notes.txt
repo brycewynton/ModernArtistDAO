@@ -1,0 +1,28 @@
+Making an Modern Artists DAO
+
+Kevin is setting up the game plan and getting finding handled
+
+Dereks in the blockchain business already
+
+
+Entering Chainlink Hackathon with this idea
+
+-build is based on:
+      Pool Together - has the interface and most
+                      of the game rules we want
+                      except we dont want a winner, we want a governance system to give money to artists 
+     
+      Yearn.finance - has the governance protocol we want
+     
+      curve.fi - just a reference
+      
+These are the three main stable coin protocols
+I'll need to audit before next meeting
+
+-compund 
+-aave
+ 
+Lesser known tokens
+
+
+(use mozilla for less wallet clash than Brave)
