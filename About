@@ -1,0 +1,36 @@
+Modern Artists DAO
+
+Mission:
+Create a governance token backed DAO with the expressed purpose of giving monthly micro grants to artists.
+
+Overview:
+Functionally, it would operate very similarly to Pool.Together. Users would stake stablecoins into a liquidity pool, and interest would be earned on those stablecoins. Also like Pool Together, this would be “winner-take-all”, with one participant receiving all the interest accrued in a given month. Users can withdraw their funds at any time, so this is effectively a no-loss (other than tx fees) service.
+
+The difference, is that instead of the winner being chosen randomly, the winner would be user selected, with votes coming from a governance token provided to those who have staked in the pool. 
+
+To qualify to be a winner, users will have to submit potential art projects they are seeking a grant for to the Modern Artists DAO community. 
+
+Examples
+
+Artist A is looking for a grant to cover recording & mixing fees for a new album
+Artist B is looking for a grant to cover supplies & labor for painting a new mural
+Artist C is looking for a grant to create a light installation to support their live performances
+Artist D is attempting to go on their first national tour
+
+The community votes throughout the month, and a winner is selected at the end of each month.
+
+—
+
+Requirements:
+
+Adapt Pool Together smart contract to allow for governance selected winners instead of random ones
+Create & distribute governance tokens
+To keep things as egalitarian as possible, each person would be given 1 vote per wallet address
+Obviously users could create numerous wallets, so some thinking will have to be done on token distribution to preserve the fairness of the voting
+Build UI that allows for artists to upload projects to a given “grant” template and simultaneously allows for trustless voting that takes place on chain
+Thinking here is that users post their public address alongside each upload so voters can select that public address with their governance token vote.
+
+Considerations:
+
+Consider setting up Modern Artists DAO as a 501-3c non-profit organization, and encourage corporate sponsors to lock up funds for various time periods to help increase the interest rewards.
+
